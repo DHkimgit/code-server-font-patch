@@ -7,7 +7,7 @@ This patchs [code-server](https://github.com/cdr/code-server) to enable load fon
 - Clone this repository.
 
 ```bash
-git clone https://github.com/tuanpham-dev/code-server-font-patch.git
+git clone https://github.com/DHkimgit/code-server-font-patch.git
 cd code-server-font-patch
 ```
 
